@@ -2,5 +2,5 @@ crewai
 crewai-tools
 python-dotenv
 streamlit
-chromadb>=0.5.10
-
+chromadb==0.5.10
+embedchain==0.1.128
